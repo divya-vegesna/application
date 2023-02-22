@@ -1,2 +1,3 @@
 this is new fileC
 other changed filec
+squash merge for fileC
